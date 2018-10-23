@@ -13,3 +13,17 @@ body {
 .mymaincontainer {
     margin-top: 1%;
 }
+
+/* using this for portfolio page */
+
+.mycard {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.mytext {
+    color: white;
+    background-color: #4aaaa5;
+    width: 100%;
+    text-align: center;
+}
