@@ -27,3 +27,10 @@ body {
     width: 100%;
     text-align: center;
 }
+
+@media only screen and (max-width: 414px) {
+.card {
+    width: 100%;
+    margin: 0 auto;
+}
+}
