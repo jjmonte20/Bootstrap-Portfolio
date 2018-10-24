@@ -16,7 +16,12 @@ body {
 
 /* using this for portfolio page */
 
-.mycard {
+.col-md-6 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.col-md-4, .col-sm-12 {
     margin-top: 1%;
     margin-bottom: 1%;
 }
